@@ -1,3 +1,4 @@
 wpu resolusi
 - kosinsten belajar pemrogramman
-- belajar tentang cara kerja github
+- memplajari tentang cara kerja github
+-memplajari cara membuat websait
